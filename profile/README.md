@@ -6,9 +6,10 @@
 <br>
 
 ## Our project
-<a href="https://github.com/MonoBehaviour4OP/Fireboy-and-Watergirl-on-VR">
+<a href="https://github.com/MonoBehaviour4OP/Fireboy-and-Watergirl-on-VR" target="_blank">
   <p align="center">
       <img src="https://github.com/user-attachments/assets/24c3017e-050a-45d5-bd35-20e14fb132f9" width="80%">
+      <br><sub>클릭하여 페이지로 이동</sub>
   </p>
 </a>
 
