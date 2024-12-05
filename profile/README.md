@@ -8,7 +8,7 @@
 ## Our project
 <a href="https://github.com/MonoBehaviour4OP/Fireboy-and-Watergirl-on-VR">
   <p align="center">
-      <img src="imgs/DEMO_Main.gif">
+      <img src="https://github.com/user-attachments/assets/24c3017e-050a-45d5-bd35-20e14fb132f9" width="80%">
   </p>
 </a>
 
