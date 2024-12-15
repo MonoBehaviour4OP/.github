@@ -1,11 +1,11 @@
 # TEAM MonoBehaviour
 
-## Lecture
+## 🏫 Lecture
 `오픈소스프로젝트-CD0070-03`
 
 <br>
 
-## Our project
+## 📋 Our project
 <a href="https://github.com/MonoBehaviour4OP/Fireboy-and-Watergirl-on-VR" target="_blank">
   <p align="center">
       <img src="https://github.com/user-attachments/assets/24c3017e-050a-45d5-bd35-20e14fb132f9" width="80%">
@@ -15,7 +15,7 @@
 
 <br>
 
-## Members
+## 👨‍💻 Members
 <table>
   <td align="center">
     <a href="https://github.com/Yoon-men">
